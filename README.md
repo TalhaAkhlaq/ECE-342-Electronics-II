@@ -1,5 +1,19 @@
 # Electronics II
 
+## Overview
+Analog integrated-circuit design focused on MOS and BJT amplifier stages: biasing, small-signal modeling, frequency response, differential and multistage amplifiers, and op-amp building blocks.
+
+## Topics
+- MOS circuits: DC operation and analysis
+- Single-stage MOS amplifiers: design; DC and small-signal analysis
+- Cascode amplifiers
+- Current mirrors; active loads
+- BJT and MOS differential amplifiers
+- Monolithic operational amplifiers
+- Output stages
+- Frequency response
+- Feedback fundamentals; amplifier topologies
+
 ## Copyright & Licensing
 
 Copyright © Talha Akhlaq
