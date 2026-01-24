@@ -1,4 +1,4 @@
-# ECE-342-Electronics-II
+# Electronics II
 
 ## Copyright & Licensing
 
